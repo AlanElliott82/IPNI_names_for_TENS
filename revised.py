@@ -1,3 +1,10 @@
+## Script to split monthly IPNI records once matching into csv's for distribution to TENs. 
+## Take the IPNI export add to WFOsqlite.db as IPNI{month}. Change month variable to current three letter.
+## Adding a new TEN to the TENFam table or Adding a new multifamily table shouldn't effect the outputs.
+## Partial TEN get the full family releases.
+## Each month has a result/no result log.
+
+
 import sqlite3
 import csv
 import datetime
