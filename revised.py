@@ -54,7 +54,10 @@ if 'TENFams' in table_names_array:
         # Fetch all the results
         results = cursor.fetchall()
 
-        if results:
+        # Count the number of records returned
+        record_count = len(results)
+
+        if record_count > 0:
             # Get the column names
             column_names = [description[0] for description in cursor.description]
 
@@ -78,7 +81,7 @@ if 'TENFams' in table_names_array:
             
             # Log the information to a file
             with open(f'IPNInewRecords/2025/Result_log_{month}.txt', 'a') as log_file:
-                log_file.write(f'Records returned from the {family_entry} query executed at: ' + str(time()) + '\n')
+                log_file.write(f'Records returned from the {family_entry} query executed at: {str(time())} - Count: {record_count}\n')
         
         else:
             # No records found, log or record this information
@@ -86,62 +89,67 @@ if 'TENFams' in table_names_array:
             
             # Log the information to a file
             with open(f'IPNInewRecords/2025/noResult_log_{month}.txt', 'a') as log_file:
-                log_file.write(f'No records returned from the {family_entry} query executed at: ' + str(time()) + '\n')
-
+                log_file.write(f'No records returned from the {family_entry} query executed at: {str(time())} - Count: {record_count}\n')
 # Work through all other tables
 for table_name in table_names_array:
     if table_name != 'TENFams':
-        query = f'''SELECT IPNI{month}.rhakhis_wfo AS WFOID,
-            IPNI{month}.id AS IPNID,
-            IPNI{month}.taxon_scientific_name_s_lower AS scientificName,
-            IPNI{month}.authors_t as authorship,
-            IPNI{month}.reference_t AS namePublishedin,
-            IPNI{month}.family_s_lower AS Family,
-            IPNI{month}.name_status_s_lower AS nomenclaturalStatus,
-            IPNI{month}.basionym_s_lower AS originalName,
-            IPNI{month}.basionym_author_s_lower AS originalNameAuthor
-        FROM IPNI{month}
-            INNER JOIN {table_name}
-        WHERE {table_name}.Family = IPNI{month}.family_s_lower;'''
+        print(f"Processing table: {table_name}")  # Debugging log
 
+        # Handle `Cichorieae` table separately with genus linking
+        if table_name == "Cichorieae":
+            query = f'''SELECT IPNI{month}.rhakhis_wfo AS WFOID,
+                IPNI{month}.id AS IPNID,
+                IPNI{month}.taxon_scientific_name_s_lower AS scientificName,
+                IPNI{month}.authors_t as authorship,
+                IPNI{month}.reference_t AS namePublishedin,
+                IPNI{month}.genus_s_lower AS Genus,
+                IPNI{month}.name_status_s_lower AS nomenclaturalStatus,
+                IPNI{month}.basionym_s_lower AS originalName,
+                IPNI{month}.basionym_author_s_lower AS originalNameAuthor
+            FROM IPNI{month}
+                INNER JOIN {table_name}
+            WHERE {table_name}.Genus = IPNI{month}.genus_s_lower;'''
+        else:
+            # Default case for other tables linking on family
+            query = f'''SELECT IPNI{month}.rhakhis_wfo AS WFOID,
+                IPNI{month}.id AS IPNID,
+                IPNI{month}.taxon_scientific_name_s_lower AS scientificName,
+                IPNI{month}.authors_t as authorship,
+                IPNI{month}.reference_t AS namePublishedin,
+                IPNI{month}.family_s_lower AS Family,
+                IPNI{month}.name_status_s_lower AS nomenclaturalStatus,
+                IPNI{month}.basionym_s_lower AS originalName,
+                IPNI{month}.basionym_author_s_lower AS originalNameAuthor
+            FROM IPNI{month}
+                INNER JOIN {table_name}
+            WHERE {table_name}.Family = IPNI{month}.family_s_lower;'''
+
+        # Execute the query
         cursor.execute(query)
-
-        # Fetch all the results
         results = cursor.fetchall()
 
-        if results:
-            # Get the column names
-            column_names = [description[0] for description in cursor.description]
+        # Count the number of records returned
+        record_count = len(results)
 
-            # Create the directory name
+        if record_count > 0:
+            print(f"Records found for table: {table_name}, count: {record_count}")  # Debugging log
+            column_names = [description[0] for description in cursor.description]
             directory_name = f'IPNInewRecords/2025/{table_name}'
             os.makedirs(directory_name, exist_ok=True)
-
-            # Create the file name based on the entry
             file_name = f'IPNInewRecords/2025/{table_name}/{table_name}_{month}.csv'
-            #print(file_name)
 
-            # Write the results to a CSV file
             with open(file_name, 'w', newline='', encoding='utf-8') as csv_file:
                 csv_writer = csv.writer(csv_file)
-                # Write the column headers
                 csv_writer.writerow(column_names)
-                # Write the data rows
                 csv_writer.writerows(results)
 
-            #print(f"Records returned from {table_name} query.")
-            
-            # Log the information to a file
             with open(f'IPNInewRecords/2025/Result_log_{month}.txt', 'a') as log_file:
-                log_file.write(f'Records returned from the {table_name} query executed at: ' + str(time()) + '\n')
-            
+                log_file.write(f'Records returned from the {table_name} query executed at: {str(time())} - Count: {record_count}\n')
         else:
-            # No records found, log or record this information
-           # print(f"No records returned from {table_name} query.")
-              
-            # Log the information to a file
+            print(f"No records found for table: {table_name}")  # Debugging log
             with open(f'IPNInewRecords/2025/noResult_log_{month}.txt', 'a') as log_file:
-                log_file.write(f'No records returned from the {table_name} query executed at: ' + str(time()) + '\n')
+                log_file.write(f'No records returned from the {table_name} query executed at: {str(time())} - Count: {record_count}\n')
+
 
 #copy New name files to TEN linked repo.
 sourceDir = r"IPNInewRecords/2025"
