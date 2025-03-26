@@ -7,3 +7,5 @@ To better distribute to Taxonomic Expert Networks we are now pushing these to th
 
 The basic csv will contain the WFO ID, the IPNI ID, Scientific name, Authorship, place of publication and if there is a basionym for that name.
 If TEN would like additional data please just let us know and we can tailor the export to what you need.
+
+Second workflow extracts any doi's from the data and adds these to the WFO Zotero Library.
