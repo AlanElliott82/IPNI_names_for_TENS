@@ -1,0 +1,55 @@
+{
+    "Taxonomic Expert Networks": {
+        "name": "Taxonomic Expert Networks",
+        "key": "CIQT2XC3",
+        "children": [
+            {
+                "name": "Poaceae",
+                "key": "BVCCWWCZ",
+                "children": [
+                    {
+                        "name": "inbox",
+                        "key": "VRS6RE3V",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "2025 No Taxonomic Expert Network": {
+        "name": "2025 No Taxonomic Expert Network",
+        "key": "NEPCIN6C",
+        "children": []
+    },
+    "Eric Mauritiensis": {
+        "name": "Eric Mauritiensis",
+        "key": "CUBFL5ZE",
+        "children": []
+    },
+    "Red Lists Assessments": {
+        "name": "Red Lists Assessments",
+        "key": "QKCR7GYM",
+        "children": []
+    },
+    "DataSources": {
+        "name": "DataSources",
+        "key": "UNGLR8TU",
+        "children": []
+    },
+    "WFO Refs": {
+        "name": "WFO Refs",
+        "key": "9KKWV33D",
+        "children": []
+    },
+    "Ericaceae Refs": {
+        "name": "Ericaceae Refs",
+        "key": "9ATT5CH3",
+        "children": [
+            {
+                "name": "Rhododendrons of subgenus Vireya",
+                "key": "6EKHMAEF",
+                "children": []
+            }
+        ]
+    }
+}

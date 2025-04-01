@@ -1,0 +1,1895 @@
+[
+    {
+        "key": "JESWEMHT",
+        "version": 6546,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/JESWEMHT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/JESWEMHT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/CGWVBC5M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "JESWEMHT",
+            "version": 6546,
+            "name": "inbox",
+            "parentCollection": "CGWVBC5M",
+            "relations": {}
+        }
+    },
+    {
+        "key": "CGWVBC5M",
+        "version": 6545,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/CGWVBC5M",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/CGWVBC5M",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/6W628R6J",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "CGWVBC5M",
+            "version": 6545,
+            "name": "Fagaceae",
+            "parentCollection": "6W628R6J",
+            "relations": {}
+        }
+    },
+    {
+        "key": "6W628R6J",
+        "version": 6544,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/6W628R6J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/6W628R6J",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "6W628R6J",
+            "version": 6544,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "4FGTVZ8P",
+        "version": 6542,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/4FGTVZ8P",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/4FGTVZ8P",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/PD7XCJQE",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "4FGTVZ8P",
+            "version": 6542,
+            "name": "inbox",
+            "parentCollection": "PD7XCJQE",
+            "relations": {}
+        }
+    },
+    {
+        "key": "PD7XCJQE",
+        "version": 6541,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/PD7XCJQE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/PD7XCJQE",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/7P6ZCZRU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "PD7XCJQE",
+            "version": 6541,
+            "name": "Zingiberaceae",
+            "parentCollection": "7P6ZCZRU",
+            "relations": {}
+        }
+    },
+    {
+        "key": "7P6ZCZRU",
+        "version": 6540,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/7P6ZCZRU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/7P6ZCZRU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "7P6ZCZRU",
+            "version": 6540,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "XHDU2D9E",
+        "version": 6538,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/XHDU2D9E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/XHDU2D9E",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "XHDU2D9E",
+            "version": 6538,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "3QJEND5N",
+        "version": 6537,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/3QJEND5N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/3QJEND5N",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "3QJEND5N",
+            "version": 6537,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "SVTHUEJD",
+        "version": 6536,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/SVTHUEJD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/SVTHUEJD",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "SVTHUEJD",
+            "version": 6536,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "ZG9UNPAE",
+        "version": 6534,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/ZG9UNPAE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/ZG9UNPAE",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "ZG9UNPAE",
+            "version": 6534,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "ZPKPGJI6",
+        "version": 6532,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/ZPKPGJI6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/ZPKPGJI6",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "ZPKPGJI6",
+            "version": 6532,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "N4NPUZVM",
+        "version": 6530,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/N4NPUZVM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/N4NPUZVM",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/FZA9QWRX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "N4NPUZVM",
+            "version": 6530,
+            "name": "inbox",
+            "parentCollection": "FZA9QWRX",
+            "relations": {}
+        }
+    },
+    {
+        "key": "FZA9QWRX",
+        "version": 6529,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/FZA9QWRX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/FZA9QWRX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/CQD5MAUX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "FZA9QWRX",
+            "version": 6529,
+            "name": "Zingiberaceae",
+            "parentCollection": "CQD5MAUX",
+            "relations": {}
+        }
+    },
+    {
+        "key": "CQD5MAUX",
+        "version": 6528,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/CQD5MAUX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/CQD5MAUX",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "CQD5MAUX",
+            "version": 6528,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "BEZ6RAD6",
+        "version": 6526,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/BEZ6RAD6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/BEZ6RAD6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/NU6BU86M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "BEZ6RAD6",
+            "version": 6526,
+            "name": "inbox",
+            "parentCollection": "NU6BU86M",
+            "relations": {}
+        }
+    },
+    {
+        "key": "NU6BU86M",
+        "version": 6525,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/NU6BU86M",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/NU6BU86M",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/RAQSCWJB",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "NU6BU86M",
+            "version": 6525,
+            "name": "Fabaceae",
+            "parentCollection": "RAQSCWJB",
+            "relations": {}
+        }
+    },
+    {
+        "key": "RAQSCWJB",
+        "version": 6524,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/RAQSCWJB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/RAQSCWJB",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "RAQSCWJB",
+            "version": 6524,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "B6826PCP",
+        "version": 6522,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/B6826PCP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/B6826PCP",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "B6826PCP",
+            "version": 6522,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "DZ85GK2I",
+        "version": 6521,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/DZ85GK2I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/DZ85GK2I",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/D7TBSHQR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "DZ85GK2I",
+            "version": 6521,
+            "name": "inbox",
+            "parentCollection": "D7TBSHQR",
+            "relations": {}
+        }
+    },
+    {
+        "key": "D7TBSHQR",
+        "version": 6520,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/D7TBSHQR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/D7TBSHQR",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/UDVT8HHM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "D7TBSHQR",
+            "version": 6520,
+            "name": "Convolvulaceae",
+            "parentCollection": "UDVT8HHM",
+            "relations": {}
+        }
+    },
+    {
+        "key": "UDVT8HHM",
+        "version": 6519,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/UDVT8HHM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/UDVT8HHM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "UDVT8HHM",
+            "version": 6519,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "RTD4MM8W",
+        "version": 6518,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/RTD4MM8W",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/RTD4MM8W",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "RTD4MM8W",
+            "version": 6518,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "QXZTFPG9",
+        "version": 6517,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/QXZTFPG9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/QXZTFPG9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/A8D87RE3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "QXZTFPG9",
+            "version": 6517,
+            "name": "inbox",
+            "parentCollection": "A8D87RE3",
+            "relations": {}
+        }
+    },
+    {
+        "key": "A8D87RE3",
+        "version": 6516,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/A8D87RE3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/A8D87RE3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/XCB7MN37",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "A8D87RE3",
+            "version": 6516,
+            "name": "Clusiaceae",
+            "parentCollection": "XCB7MN37",
+            "relations": {}
+        }
+    },
+    {
+        "key": "XCB7MN37",
+        "version": 6515,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/XCB7MN37",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/XCB7MN37",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "XCB7MN37",
+            "version": 6515,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "SR7UFBC6",
+        "version": 6513,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/SR7UFBC6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/SR7UFBC6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/2H2C8NJJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "SR7UFBC6",
+            "version": 6513,
+            "name": "inbox",
+            "parentCollection": "2H2C8NJJ",
+            "relations": {}
+        }
+    },
+    {
+        "key": "2H2C8NJJ",
+        "version": 6512,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/2H2C8NJJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/2H2C8NJJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/PEGCXDRU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "2H2C8NJJ",
+            "version": 6512,
+            "name": "Gesneriaceae",
+            "parentCollection": "PEGCXDRU",
+            "relations": {}
+        }
+    },
+    {
+        "key": "PEGCXDRU",
+        "version": 6511,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/PEGCXDRU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/PEGCXDRU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "PEGCXDRU",
+            "version": 6511,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "8JXPFD3N",
+        "version": 6509,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/8JXPFD3N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/8JXPFD3N",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/DU3A3JWN",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "8JXPFD3N",
+            "version": 6509,
+            "name": "inbox",
+            "parentCollection": "DU3A3JWN",
+            "relations": {}
+        }
+    },
+    {
+        "key": "DU3A3JWN",
+        "version": 6508,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/DU3A3JWN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/DU3A3JWN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/6VIW7BAH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "DU3A3JWN",
+            "version": 6508,
+            "name": "Caesalpiniaceae",
+            "parentCollection": "6VIW7BAH",
+            "relations": {}
+        }
+    },
+    {
+        "key": "6VIW7BAH",
+        "version": 6507,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/6VIW7BAH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/6VIW7BAH",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "6VIW7BAH",
+            "version": 6507,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "S3QZ36M9",
+        "version": 6505,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/S3QZ36M9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/S3QZ36M9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/C2HJH2FJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "S3QZ36M9",
+            "version": 6505,
+            "name": "inbox",
+            "parentCollection": "C2HJH2FJ",
+            "relations": {}
+        }
+    },
+    {
+        "key": "C2HJH2FJ",
+        "version": 6504,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/C2HJH2FJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/C2HJH2FJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/8S4HMK7D",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "C2HJH2FJ",
+            "version": 6504,
+            "name": "Blechnaceae",
+            "parentCollection": "8S4HMK7D",
+            "relations": {}
+        }
+    },
+    {
+        "key": "8S4HMK7D",
+        "version": 6503,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/8S4HMK7D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/8S4HMK7D",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "8S4HMK7D",
+            "version": 6503,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "7CKG3JRB",
+        "version": 6501,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/7CKG3JRB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/7CKG3JRB",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "7CKG3JRB",
+            "version": 6501,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "VK3CXZW8",
+        "version": 6499,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/VK3CXZW8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/VK3CXZW8",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "VK3CXZW8",
+            "version": 6499,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "UEI56JF3",
+        "version": 6497,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/UEI56JF3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/UEI56JF3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/KQTQKFP9",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "UEI56JF3",
+            "version": 6497,
+            "name": "inbox",
+            "parentCollection": "KQTQKFP9",
+            "relations": {}
+        }
+    },
+    {
+        "key": "KQTQKFP9",
+        "version": 6496,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/KQTQKFP9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/KQTQKFP9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/BK9984QZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "KQTQKFP9",
+            "version": 6496,
+            "name": "Poaceae",
+            "parentCollection": "BK9984QZ",
+            "relations": {}
+        }
+    },
+    {
+        "key": "BK9984QZ",
+        "version": 6495,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/BK9984QZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/BK9984QZ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "BK9984QZ",
+            "version": 6495,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "NEPCIN6C",
+        "version": 6461,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/NEPCIN6C",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/NEPCIN6C",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "NEPCIN6C",
+            "version": 6461,
+            "name": "2025 No Taxonomic Expert Network",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "VRS6RE3V",
+        "version": 6369,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/VRS6RE3V",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/VRS6RE3V",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/BVCCWWCZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "VRS6RE3V",
+            "version": 6369,
+            "name": "inbox",
+            "parentCollection": "BVCCWWCZ",
+            "relations": {}
+        }
+    },
+    {
+        "key": "BVCCWWCZ",
+        "version": 6368,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/BVCCWWCZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/BVCCWWCZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/CIQT2XC3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "BVCCWWCZ",
+            "version": 6368,
+            "name": "Poaceae",
+            "parentCollection": "CIQT2XC3",
+            "relations": {}
+        }
+    },
+    {
+        "key": "CIQT2XC3",
+        "version": 6367,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/CIQT2XC3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/CIQT2XC3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 0
+        },
+        "data": {
+            "key": "CIQT2XC3",
+            "version": 6367,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "MF7TUZF9",
+        "version": 6366,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/MF7TUZF9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/MF7TUZF9",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 0
+        },
+        "data": {
+            "key": "MF7TUZF9",
+            "version": 6366,
+            "name": "Taxonomic Expert Networks",
+            "parentCollection": false,
+            "relations": {},
+            "deleted": true
+        }
+    },
+    {
+        "key": "CUBFL5ZE",
+        "version": 1259,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/CUBFL5ZE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/CUBFL5ZE",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 5
+        },
+        "data": {
+            "key": "CUBFL5ZE",
+            "version": 1259,
+            "name": "Eric Mauritiensis",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "6EKHMAEF",
+        "version": 111,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/6EKHMAEF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/6EKHMAEF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/15714349/collections/9ATT5CH3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 1
+        },
+        "data": {
+            "key": "6EKHMAEF",
+            "version": 111,
+            "name": "Rhododendrons of subgenus Vireya",
+            "parentCollection": "9ATT5CH3",
+            "relations": {}
+        }
+    },
+    {
+        "key": "QKCR7GYM",
+        "version": 84,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/QKCR7GYM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/QKCR7GYM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 15
+        },
+        "data": {
+            "key": "QKCR7GYM",
+            "version": 84,
+            "name": "Red Lists Assessments",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "UNGLR8TU",
+        "version": 3,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/UNGLR8TU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/UNGLR8TU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 14
+        },
+        "data": {
+            "key": "UNGLR8TU",
+            "version": 3,
+            "name": "DataSources",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "9KKWV33D",
+        "version": 3,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/9KKWV33D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/9KKWV33D",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 0,
+            "numItems": 10
+        },
+        "data": {
+            "key": "9KKWV33D",
+            "version": 3,
+            "name": "WFO Refs",
+            "parentCollection": false,
+            "relations": {}
+        }
+    },
+    {
+        "key": "9ATT5CH3",
+        "version": 3,
+        "library": {
+            "type": "user",
+            "id": 15714349,
+            "name": "Alan Elliott",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/alanelliott",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/15714349/collections/9ATT5CH3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/alanelliott/collections/9ATT5CH3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "numCollections": 1,
+            "numItems": 16
+        },
+        "data": {
+            "key": "9ATT5CH3",
+            "version": 3,
+            "name": "Ericaceae Refs",
+            "parentCollection": false,
+            "relations": {}
+        }
+    }
+]

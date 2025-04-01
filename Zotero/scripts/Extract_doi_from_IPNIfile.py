@@ -5,7 +5,7 @@ import sqlite3
 import re
 import csv
 
-month = 'Jan'
+month = 'Feb'
 
 # Connect to your SQLite database
 conn = sqlite3.connect("data/WFOsqlite.db")
@@ -74,7 +74,7 @@ for doi, family in doi_family_mapping.items():
     output.append((doi, family, collection))
 
 # Write results to a CSV file
-output_csv = f"Dois_forZotero/data/Zotero_{month}.csv"
+output_csv = f"Zotero/data/Zotero_{month}.csv"
 with open(output_csv, "w", newline="", encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile)
     # Write header
