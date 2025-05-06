@@ -16,7 +16,7 @@ from shutil import copy2  # Import the copy2 function
 time = datetime.datetime.now
 
 # Connect to the SQLite database
-conn = sqlite3.connect('data\WFOsqlite.db')
+conn = sqlite3.connect('data/WFOsqlite.db')
 
 # Create a cursor object
 cursor = conn.cursor()
@@ -29,7 +29,7 @@ table_names = cursor.fetchall()
 exclude_substrings = ['IPNI']
 # Extract table names from the fetched result, excluding unwanted names
 table_names_array = [table[0] for table in table_names if not any(sub in table[0] for sub in exclude_substrings)]
-month = "Mar"
+month = "Apr"
 # Ten Families working on one group
 if 'TENFams' in table_names_array:
     # Step 1: Retrieve the family list from the TEN Family List
