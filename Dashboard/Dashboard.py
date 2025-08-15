@@ -164,3 +164,4 @@ if show_custom_compare:
             st.dataframe(new_df[["taxonID", "scientificName", "taxonomicStatus"]])
         else:
             st.info("No new names added in selected snapshot.")
+            
