@@ -29,7 +29,7 @@ table_names = cursor.fetchall()
 exclude_substrings = ['IPNI']
 # Extract table names from the fetched result, excluding unwanted names
 table_names_array = [table[0] for table in table_names if not any(sub in table[0] for sub in exclude_substrings)]
-month = "August"
+month = "September"
 # Ten Families working on one group
 if 'TENFams' in table_names_array:
     # Step 1: Retrieve the family list from the TEN Family List
