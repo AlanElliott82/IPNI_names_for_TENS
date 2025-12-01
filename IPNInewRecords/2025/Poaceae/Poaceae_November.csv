@@ -1,0 +1,23 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-1200115891,urn:lsid:ipni.org:names:77371698-1,Helictotrichon alpinum subsp. adsurgens,(Schur ex Simonk.) Soó,Feddes Repert. 83(3): 171. 1972 [Aug 1972] ,,Poaceae Avena adsurgens Schur ex Simonk.,(Schur ex Simonk.)
+wfo-1000080924,urn:lsid:ipni.org:names:77360579-1,Yushania rubrovaginata,"(C.H.Hu) N.H.Xia, Y.H.Tong, J.B.Ni & Xing Li",PhytoKeys 255: 193. 2025 [24 Apr 2025] [epublished],,Poaceae Sasa rubrovaginata Cheng H.Hu,(C.H.Hu)
+wfo-1000082144,urn:lsid:ipni.org:names:77363204-1,Phyllostachys confertella,D.L.Fu & H.Fu,Amer. J. Agric. Forest. 12(2): 92. 2024 [2 Apr 2024] [epublished],,,
+wfo-1000082403,urn:lsid:ipni.org:names:77364053-1,Phyllostachys hubeiensis,(Cheng H.Hu) D.L.Fu,Amer. J. Agric. Forest. 12(2): 95. 2024 [2 Apr 2024] [epublished],,Poaceae Sasamorpha hubeiensis Cheng H.Hu,(Cheng H.Hu)
+wfo-1000082461,urn:lsid:ipni.org:names:77364136-1,Phyllostachys lancifolia,(C.H.Hu) D.L.Fu,Amer. J. Agric. Forest. 12(2): 96. 2024 [2 Apr 2024] [epublished],,Poaceae Shibataea lanceifolia Cheng H.Hu,(C.H.Hu)
+wfo-1000083474,urn:lsid:ipni.org:names:77366462-1,Phyllostachys oblongula,(Cheng H.Hu) D.L.Fu,Amer. J. Agric. Forest. 12(2): 99. 2024 [2 Apr 2024] [epublished],,Poaceae Sasa oblongula Cheng H.Hu,(Cheng H.Hu)
+wfo-1000084997,urn:lsid:ipni.org:names:77369872-1,Phyllostachys qingyuanensis,(Cheng H.Hu) D.L.Fu,Amer. J. Agric. Forest. 12(2): 100. 2024 [2 Apr 2024] [epublished],,Poaceae Sasamorpha qingyuanensis Cheng H.Hu,(Cheng H.Hu)
+wfo-1000085379,urn:lsid:ipni.org:names:77370716-1,Phyllostachys rubrovaginata,(Cheng H.Hu) D.L.Fu,Amer. J. Agric. Forest. 12(2): 101. 2024 [2 Apr 2024] [epublished],,Poaceae Sasa rubrovaginata Cheng H.Hu,(Cheng H.Hu)
+wfo-1000085690,urn:lsid:ipni.org:names:77371342-1,Indosasa fimbriligulata,"N.H.Xia, Z.Y.Niu & Y.H.Tong",PhytoKeys 265: 213. 2025 [4 Nov 2025] [epublished],,,
+wfo-1000086188,urn:lsid:ipni.org:names:77371718-1,Poa barclayae,"(Davidse, Soreng & P.M.Peterson) Soreng",PhytoKeys 266: 130. 2025 [10 Nov 2025] [epublished],,"Poaceae Agrostopoa barclayae Davidse, Soreng & P.M.Peterson","(Davidse, Soreng & P.M.Peterson)"
+wfo-1000086189,urn:lsid:ipni.org:names:77371719-1,Poa wallisii,(Mez) Soreng,PhytoKeys 266: 131. 2025 [10 Nov 2025] [epublished],,Poaceae Muhlenbergia wallisii Mez,(Mez)
+wfo-1000086190,urn:lsid:ipni.org:names:77371720-1,Poa woodii,"(Soreng, P.M.Peterson & Davidse) Soreng",PhytoKeys 266: 131. 2025 [10 Nov 2025] [epublished],,"Poaceae Agrostopoa woodii Soreng, P.M.Peterson & Davidse","(Soreng, P.M.Peterson & Davidse)"
+wfo-1000086191,urn:lsid:ipni.org:names:77371721-1,Poa ana-molinae,Soreng & L.J.Gillespie,PhytoKeys 266: 131. 2025 [10 Nov 2025] [epublished],,,
+wfo-1000086220,urn:lsid:ipni.org:names:77371939-1,Panicum tenuipaniculatum,Stork,Publ. Hors-Ser. Conserv. Jard. Bot. Genève 91: 110. 2025 ,,,
+wfo-1200113705,urn:lsid:ipni.org:names:77364873-1,Avenastrum adsurgens,(Schur ex Simonk.) Prodan,Fl. Român. 1: 88. 1923 ,nom. superfl.,Poaceae Avena adsurgens Schur ex Simonk.,(Schur ex Simonk.)
+wfo-1200115673,urn:lsid:ipni.org:names:77371876-1,Agrostis sibirica var. sokolovskajae,(Prob.) Enushch.,Izv. Irkutsk. Gosud. Univ. Ser. Biol. Ecol. 3(4): 36. 2010 ,,Poaceae Agrostis sokolovskajae Prob.,(Prob.)
+wfo-1200115674,urn:lsid:ipni.org:names:77371875-1,Agrostis capillaris var. korczaginii,(Senjan.-Korcz.) Enushch.,Izv. Irkutsk. Gosud. Univ. Ser. Biol. Ecol. 3(4): 36. 2010 ,,Poaceae Agrostis korczaginii Senjan.-Korcz.,(Senjan.-Korcz.)
+wfo-1200115675,urn:lsid:ipni.org:names:77371877-1,Agrostis stolonifera var. ussuriensis,(Prob.) Enushch.,Izv. Irkutsk. Gosud. Univ. Ser. Biol. Ecol. 3(4): 37. 2010 ,,Poaceae Agrostis × ussuriensis Prob.,(Prob.)
+wfo-1200115678,urn:lsid:ipni.org:names:77371932-1,Glyphochloa acuminata var. laevis,Abhijit & Y.L.Krishnam.,Grass Fl. Centr. W. Ghats 236. 2025 [Aug 2025] ,nom. inval.    Contrary to Art. 40.1. ICN (2025). Type not indicated.,,
+wfo-1200115696,urn:lsid:ipni.org:names:77372158-1,Stipa drobovii var. hajastanica,M.Nobis & Klichowska,"Acta Soc. Bot. Poloniae 94(1, 202669): 26. 2025 [26 Jun 2025] [epublished]",,,
+wfo-1200115804,urn:lsid:ipni.org:names:77371722-1,Poa subgen. Parodiochloa,(C.E.Hubb.) Soreng & L.J.Gillespie,PhytoKeys 266: 132. 2025 [10 Nov 2025] [epublished],,Poaceae Parodiochloa C.E.Hubb.,(C.E.Hubb.)
+wfo-4100006317,urn:lsid:ipni.org:names:77371046-1,subtrib. Airinae,Fr.,"Fl. Scan. 196, 198. 1835 , as 'Aireae'",,,

@@ -1,0 +1,55 @@
+WFOID,IPNID,scientificName,authorship,namePublishedin,nomenclaturalStatus,originalName,originalNameAuthor
+wfo-0000059847,urn:lsid:ipni.org:names:77371635-1,Phagnalon saxatile subsp. purpurascens,(Sch.Bip.) Batt.,Fl. Algérie 1(3): 444. 1889 [1890 publ. Nov-Dec 1889] ,,Asteraceae Phagnalon purpurascens Sch.Bip.,(Sch.Bip.)
+wfo-0000080037,urn:lsid:ipni.org:names:77372477-1,Balsamita grandiflora,Desf.,Méd. Eclairée Sci. Phys. 1(11): 322. 1791 [15 Nov 1791] ,,,
+wfo-0000094667,urn:lsid:ipni.org:names:77372480-1,Scolymus grandiflorus,Desf.,Méd. Eclairée Sci. Phys. 1(11): 324. 1791 [15 Nov 1791] ,,,
+wfo-0000131524,urn:lsid:ipni.org:names:77372478-1,Balsamita virgata,Desf.,Méd. Eclairée Sci. Phys. 1(11): 322. 1791 [15 Nov 1791] ,,,
+wfo-1000082148,urn:lsid:ipni.org:names:77371663-1,Artemisia kholabaria,Shumon,Int. J. Res. Innov. Appl. Sci. 10(10): 327. 2025 [29 Oct 2025] [epublished],,,
+wfo-1000083551,urn:lsid:ipni.org:names:77366773-1,Pyrrocoma mineralis,G.L.Nesom,Phytoneuron 2025-17: 3. [30 Apr 2025] [epublished],,,
+wfo-1000083581,urn:lsid:ipni.org:names:77366815-1,Pyrrocoma stellaris,G.L.Nesom,Phytoneuron 2025-26: 4. [2 Jun 2025] [epublished],,,
+wfo-1000085181,urn:lsid:ipni.org:names:77370199-1,Saussurea aksuensis,Tian Li & Y.S.Chen,Phytotaxa 721(2): 191. 2025 [7 Oct 2025] [epublished],,,
+wfo-1000085190,urn:lsid:ipni.org:names:77370227-1,Shawia sect. Kosteria,Saldivia & Nicol,Phytoneuron 2025-49: 15. [11 Sep 2025] ,,,
+wfo-1000085259,urn:lsid:ipni.org:names:77370324-1,Shawia sect. Australiaster,Saldivia & Nicol,Phytoneuron 2025-49: 31. [11 Sep 2025] [epublished],,,
+wfo-1000085961,urn:lsid:ipni.org:names:77371380-1,Zinnia austrotexana,B.L.Turner,Phytoneuron 2012-19: 3. [23 Feb 2012] [epublished],,,
+wfo-1000086024,urn:lsid:ipni.org:names:77371554-1,Sciadocephala gentryi,Pruski & R.Ortiz,Ann. Missouri Bot. Gard. 110(1): 287. 2025 [06 Aug 2025] [epublished],,,
+wfo-1000086099,urn:lsid:ipni.org:names:77368809-1,Helianthus bangladeshinensis,Shumon,Int. J. Res. Innov. Appl. Sci. 10(10): 343. 2025 [29 Oct 2025] [epublished],,,
+wfo-1000086122,urn:lsid:ipni.org:names:77371685-1,Wedelia santosii,"V.R.Bueno, Prata-Silveira & Bentes","Nordic J. Bot. 2025(x)-e04846: [8 of 14]. [27 Aug 2025] , as 'santosiae' [epublished]",Termination of specific epithet amended as per Art. 60.8. ICN (2025).,,
+wfo-1000086142,urn:lsid:ipni.org:names:77371265-1,Calea aggregata,V.R.Bueno & M.L.Campos,Nordic J. Bot. 2025(x)-e04846: [3 of 14]. [27 Aug 2025] [epublished],,,
+wfo-1000086143,urn:lsid:ipni.org:names:77371684-1,Wedelia cangae,"V.R.Bueno, Prata-Silveira & Bentes",Nordic J. Bot. 2025(x)-e04846: [5 of 14]. [27 Aug 2025] [epublished],,,
+wfo-1000086145,urn:lsid:ipni.org:names:77371716-1,Zinnia purpurea,Laun.,Bon Jard. 1804: 474. ,nom. illeg. nom. superfl.,,
+wfo-1000086146,urn:lsid:ipni.org:names:77371717-1,Achillea aurata,Juss. ex T.F.Grace,Bon Jard. 1797: 232. ,,,
+wfo-1000086151,urn:lsid:ipni.org:names:77371733-1,Erigeron akaydinii,Günal & Semiz,Turk. J. Bot. 49(3): 246. 2025 [15 May 2025] [epublished],,,
+wfo-1000086161,urn:lsid:ipni.org:names:77371739-1,Frappieria amygdalina,(Lam.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza amygdalina Lam.,(Lam.)
+wfo-1000086162,urn:lsid:ipni.org:names:77371854-1,Frappieria anchusifolia,(Poir.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza anchusifolia Poir.,(Poir.)
+wfo-1000086163,urn:lsid:ipni.org:names:77371855-1,Frappieria argentea,(Lam.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza argentea Lam.,(Lam.)
+wfo-1000086164,urn:lsid:ipni.org:names:77371857-1,Frappieria aspera,(Bory) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza aspera Bory,(Bory)
+wfo-1000086165,urn:lsid:ipni.org:names:77371858-1,Frappieria boivinii,(Klatt) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Pluchea boivinii Klatt,(Klatt)
+wfo-1000086166,urn:lsid:ipni.org:names:77371859-1,Frappieria calocephala,(Bory) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza calocephala Bory,(Bory)
+wfo-1000086167,urn:lsid:ipni.org:names:77371860-1,Frappieria insignis,(Cordem.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Psiadia insignis Cordem.,(Cordem.)
+wfo-1000086168,urn:lsid:ipni.org:names:77371861-1,Frappieria laurifolia,(Lam.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza laurifolia Lam.,(Lam.)
+wfo-1000086169,urn:lsid:ipni.org:names:77371862-1,Frappieria melastomoides,(Lam.) Z.H.Feng,"Phytoneuron 2025-55: 2. [7 Nov 2025] , as 'melastomatoides' [epublished]",,Asteraceae Conyza melastomoides Lam.,(Lam.)
+wfo-1000086170,urn:lsid:ipni.org:names:77371863-1,Frappieria rivalsii,(A.J.Scott) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Psiadia rivalsii A.J.Scott,(A.J.Scott)
+wfo-1000086171,urn:lsid:ipni.org:names:77371864-1,Frappieria salaziana,(Cordem.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Psiadia salaziana Cordem.,(Cordem.)
+wfo-1000086172,urn:lsid:ipni.org:names:77371865-1,Frappieria sericea,(Bory) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza sericea Bory,(Bory)
+wfo-1000086173,urn:lsid:ipni.org:names:77371866-1,Psiadia pyrrhopappa,(Sch.Bip. ex A.Rich.) Z.H.Feng,Phytoneuron 2025-55: 2. [7 Nov 2025] [epublished],,Asteraceae Conyza pyrrhopappa Sch.Bip. ex A.Rich.,(Sch.Bip. ex A.Rich.)
+wfo-1000086174,urn:lsid:ipni.org:names:77371867-1,Dendrosenecio × saundersii,(W.Sauer & E.Beck) Z.H.Feng,Phytoneuron 2025-55: 3. [7 Nov 2025] [epublished],,Asteraceae Senecio × saundersii W.Sauer & E.Beck,(W.Sauer & E.Beck)
+wfo-1000086175,urn:lsid:ipni.org:names:77371868-1,Duhaldea × paiensis,(H.Koyama) Z.H.Feng,Phytoneuron 2025-55: 3. [7 Nov 2025] [epublished],,Asteraceae Inula × paiensis H.Koyama,(H.Koyama)
+wfo-1000086177,urn:lsid:ipni.org:names:77371870-1,Hilliardiella × adulteriana,(Thell.) Z.H.Feng,Phytoneuron 2025-55: 3. [7 Nov 2025] [epublished],,Asteraceae Vernonia adulteriana Thell.,(Thell.)
+wfo-1000086178,urn:lsid:ipni.org:names:77371871-1,Jacobaea × choczensis,(Holub) Z.H.Feng,Phytoneuron 2025-55: 4. [7 Nov 2025] [epublished],,Asteraceae Senecio × choczensis Holub,(Holub)
+wfo-1000086179,urn:lsid:ipni.org:names:77371872-1,Jacobaea × oyensis,(Hepp) Z.H.Feng,Phytoneuron 2025-55: 4. [7 Nov 2025] [epublished],,Asteraceae Senecio × oyensis Hepp,(Hepp)
+wfo-1000086180,urn:lsid:ipni.org:names:77371874-1,× Shawmisia nothosect. Cellandica,Z.H.Feng,Phytoneuron 2025-55: 4. [7 Nov 2025] [epublished],,,
+wfo-1000086181,urn:lsid:ipni.org:names:77371873-1,Shawia nothosect. Neowia,Z.H.Feng,Phytoneuron 2025-55: 4. [7 Nov 2025] [epublished],,,
+wfo-1000086206,urn:lsid:ipni.org:names:77371921-1,Centaurea zirjubiensis,Negaresh,Phytotaxa 728(2): 186. 2025 [12 Nov 2025] [epublished],,,
+wfo-1000086296,urn:lsid:ipni.org:names:77371486-1,Jurinea lushaiensis,(Y.S.Chen & Qian Yuan) Subh.Bhattach. & Sushil K.Singh,Phytotaxa 730(2): 232. 2025 [19 Nov 2025] [epublished],,Asteraceae Himalaiella lushaiensis Y.S.Chen & Qian Yuan,(Y.S.Chen & Qian Yuan)
+wfo-1000086297,urn:lsid:ipni.org:names:77372185-1,Calea flagelliformis,V.R.Bueno & Roque,Phytotaxa 730(2): 150. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086298,urn:lsid:ipni.org:names:77372186-1,Calea nakajimae,V.R.Bueno,Phytotaxa 730(2): 155. 2025 [19 Nov 2025] [epublished],,,
+wfo-1000086362,urn:lsid:ipni.org:names:77372501-1,Lepidaploa bracteospinoflava,D.Marques & A.M.Teles,Anais Acad. Brasil. Ci. 97(3)-e20241085: 2. 2025 [18 Aug 2025] [epublished],,,
+wfo-1000086373,urn:lsid:ipni.org:names:77372512-1,Packera intermedia,(T.M.Barkley) C.F.Keller,J. Bot. Res. Inst. Texas 19(2): 85. 2025 [23 Jun 2025] [epublished],,Asteraceae Senecio dimorphophyllus  subsp. intermedius T.M.Barkley,(T.M.Barkley)
+wfo-1000086426,urn:lsid:ipni.org:names:77372534-1,Haastia minor,"(Laing) C.C.Nicholls, Breitw., J.M.Ward & Pelser",New Zealand J. Bot. 63(4): 805. 2024 [16 May 2024] [epublished],,Asteraceae Haastia pulvinaris Hook.f. var. minor Laing,(Laing)
+wfo-1000086438,urn:lsid:ipni.org:names:77372601-1,Calendula perennis,Laun.,Bon Jard. 1806: 438. ,,,
+wfo-1200068443,urn:lsid:ipni.org:names:77372258-1,Haastia pulvinaris var. minor,Laing,Trans. & Proc. New Zealand Inst. 44: 67. 1912 [10 Jun 1912] ,,,
+wfo-1200115677,urn:lsid:ipni.org:names:77371928-1,Hieracium [infragen.unranked] Bifida,Arv.-Touv.,Bull. Soc. Dauphin. Échange Pl. [278-292]. 1880 ,,,
+wfo-1200115803,urn:lsid:ipni.org:names:77371869-1,Hieracium × palentinum,"(Mateo, Egido & Gómiz) Z.H.Feng",Phytoneuron 2025-55: 3. [7 Nov 2025] [epublished],nom. illeg. later homonym,"Asteraceae Hieracium viride Arv.-Touv. var. palentinum Mateo, Egido & Gómiz","(Mateo, Egido & Gómiz)"
+wfo-1200115812,urn:lsid:ipni.org:names:77371926-1,Hieracium subsect. Bifida,(Arv.-Touv.) Pugsley,"J. Linn. Soc., Bot. 54: 120. 1948 ",,Asteraceae Hieracium [infragen.unranked] Bifida Arv.-Touv.,(Arv.-Touv.)
+wfo-1200115813,urn:lsid:ipni.org:names:77371927-1,Hieracium sect. Bifida,(Arv.-Touv.) A.R.Clapham,Fl. Brit. Isles [Clapham et al.] 1: 1591. 1952 ,,Asteraceae Hieracium [infragen.unranked] Bifida Arv.-Touv.,(Arv.-Touv.)
+wfo-1200115839,urn:lsid:ipni.org:names:77371943-1,Sideranthus,Bosc,"Nouv. Dict. Hist. Nat. [Déterville], ed. 2. 31: 151. 1819 [11 Sep 1819] ",,,
+wfo-1200115863,urn:lsid:ipni.org:names:77372508-1,Erigeron beyrichii,(Fisch. & C.A.Mey.) Noyes & D.B.Poind.,J. Bot. Res. Inst. Texas 19(1): 32. 2025 [10 Mar 2025] [epublished],isonym,Asteraceae Stenactis beyrichii Fisch. & C.A.Mey.,(Fisch. & C.A.Mey.)
