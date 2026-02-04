@@ -29,7 +29,7 @@ table_names = cursor.fetchall()
 exclude_substrings = ['IPNI']
 # Extract table names from the fetched result, excluding unwanted names
 table_names_array = [table[0] for table in table_names if not any(sub in table[0] for sub in exclude_substrings)]
-month = "December"  # Change this variable for each month's processing
+month = "Jan26"  # Change this variable for each month's processing
 # Ten Families working on one group
 if 'TENFams' in table_names_array:
     # Step 1: Retrieve the family list from the TEN Family List
@@ -62,11 +62,11 @@ if 'TENFams' in table_names_array:
             column_names = [description[0] for description in cursor.description]
 
             # Create the directory name
-            directory_name = f'IPNInewRecords/2025/{family_entry}'
+            directory_name = f'IPNInewRecords/2026/{family_entry}'
             os.makedirs(directory_name, exist_ok=True)
 
             # Create the file name based on the entry
-            file_name = f'IPNInewRecords/2025/{family_entry}/{family_entry}_{month}.csv'
+            file_name = f'IPNInewRecords/2026/{family_entry}/{family_entry}_{month}.csv'
             #print(file_name)
 
             # Write the results to a CSV file
@@ -80,7 +80,7 @@ if 'TENFams' in table_names_array:
             #print(f"Records returned from {family_entry} query.")
             
             # Log the information to a file
-            with open(f'IPNInewRecords/2025/Result_log_{month}.txt', 'a') as log_file:
+            with open(f'IPNInewRecords/2026/Result_log_{month}.txt', 'a') as log_file:
                 log_file.write(f'Records returned from the {family_entry} query executed at: {str(time())} - Count: {record_count}\n')
         
         else:
@@ -88,7 +88,7 @@ if 'TENFams' in table_names_array:
             #print(f"No records returned from {family_entry} query.")
             
             # Log the information to a file
-            with open(f'IPNInewRecords/2025/noResult_log_{month}.txt', 'a') as log_file:
+            with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
                 log_file.write(f'No records returned from the {family_entry} query executed at: {str(time())} - Count: {record_count}\n')
 # Work through all other tables
 for table_name in table_names_array:
@@ -134,26 +134,26 @@ for table_name in table_names_array:
         if record_count > 0:
             print(f"Records found for table: {table_name}, count: {record_count}")  # Debugging log
             column_names = [description[0] for description in cursor.description]
-            directory_name = f'IPNInewRecords/2025/{table_name}'
+            directory_name = f'IPNInewRecords/2026/{table_name}'
             os.makedirs(directory_name, exist_ok=True)
-            file_name = f'IPNInewRecords/2025/{table_name}/{table_name}_{month}.csv'
+            file_name = f'IPNInewRecords/2026/{table_name}/{table_name}_{month}.csv'
 
             with open(file_name, 'w', newline='', encoding='utf-8') as csv_file:
                 csv_writer = csv.writer(csv_file)
                 csv_writer.writerow(column_names)
                 csv_writer.writerows(results)
 
-            with open(f'IPNInewRecords/2025/Result_log_{month}.txt', 'a') as log_file:
+            with open(f'IPNInewRecords/2026/Result_log_{month}.txt', 'a') as log_file:
                 log_file.write(f'Records returned from the {table_name} query executed at: {str(time())} - Count: {record_count}\n')
         else:
             print(f"No records found for table: {table_name}")  # Debugging log
-            with open(f'IPNInewRecords/2025/noResult_log_{month}.txt', 'a') as log_file:
+            with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
                 log_file.write(f'No records returned from the {table_name} query executed at: {str(time())} - Count: {record_count}\n')
 
 
 #copy New name files to TEN linked repo.
-sourceDir = r"IPNInewRecords/2025"
-destinationDir = r"C:\Users\alane\OneDrive\Documents\wfo\wfo-tens\wfo-tens\IPNI\2025"
+sourceDir = r"IPNInewRecords/2026"
+destinationDir = r"C:\Users\alane\OneDrive\Documents\wfo\wfo-tens\wfo-tens\IPNI\2026"
 shutil.copytree(sourceDir, destinationDir, symlinks=False, ignore=None, copy_function=copy2, ignore_dangling_symlinks=False, dirs_exist_ok=True)
 
 # Close the connection
