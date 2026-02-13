@@ -184,7 +184,7 @@ for table_name in table_names_array:
                 log_file.write(f'{table_name} executed at: {str(time())} - Count: 0\n')
 
 # ---------------------------------------------------------
-# NEW SECTION: NOT EXTRACTED RECORDS
+# NEW SECTION: NOT EXTRACTED RECORDS (with curated columns)
 # ---------------------------------------------------------
 
 cursor.execute("DROP TABLE IF EXISTS ExtractedIDs;")
@@ -227,9 +227,19 @@ for table_name in table_names_array:
         ids = cursor.fetchall()
         cursor.executemany("INSERT OR IGNORE INTO ExtractedIDs (IPNID) VALUES (?);", ids)
 
-# Now get NOT extracted
+# Now get NOT extracted using the SAME projection as other outputs
 not_extracted_query = f"""
-SELECT *
+SELECT
+    rhakhis_wfo AS WFOID,
+    id AS IPNID,
+    family_s_lower AS Family,
+    taxon_scientific_name_s_lower AS scientificName,
+    authors_t AS authorship,
+    reference_t AS namePublishedin,
+    genus_s_lower AS Genus,
+    name_status_s_lower AS nomenclaturalStatus,
+    basionym_s_lower AS originalName,
+    basionym_author_s_lower AS originalNameAuthor
 FROM IPNI{month}
 WHERE id NOT IN (SELECT IPNID FROM ExtractedIDs);
 """
@@ -238,15 +248,18 @@ cursor.execute(not_extracted_query)
 not_extracted = cursor.fetchall()
 not_extracted_count = len(not_extracted)
 
+# Output directory
 missing_dir = "IPNInewRecords/2026/GCT_names"
 os.makedirs(missing_dir, exist_ok=True)
-missing_file = f"{missing_dir}/GTC_names{month}.csv"
+missing_file = f"{missing_dir}/gct_names{month}.csv"
 
 if not_extracted_count > 0:
-    # Column names for full IPNI table
-    cursor.execute(f"PRAGMA table_info(IPNI{month});")
-    col_info = cursor.fetchall()
-    column_names = [col[1] for col in col_info]
+    # Column names match the projection above
+    column_names = [
+        "WFOID", "IPNID", "scientificName", "authorship",
+        "namePublishedin", "Genus", "nomenclaturalStatus",
+        "originalName", "originalNameAuthor"
+    ]
 
     with open(missing_file, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
@@ -254,15 +267,21 @@ if not_extracted_count > 0:
         writer.writerows(not_extracted)
 
     with open(f'IPNInewRecords/2026/Result_log_{month}.txt', 'a') as log_file:
-        log_file.write(f'GCT_names executed at: {str(time())} - Count: {not_extracted_count}\n')
+        log_file.write(f'gct executed at: {str(time())} - Count: {not_extracted_count}\n')
 
 else:
     with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
-        log_file.write(f'GCT_names executed at: {str(time())} - Count: 0\n')
+        log_file.write(f'gct executed at: {str(time())} - Count: 0\n')
 
 # Copy to TEN repo
 sourceDir = r"IPNInewRecords/2026"
 destinationDir = r"C:\Users\alane\OneDrive\Documents\wfo\wfo-tens\wfo-tens\IPNI\2026"
 shutil.copytree(sourceDir, destinationDir, symlinks=False, ignore=None, copy_function=copy2, dirs_exist_ok=True)
+
+# Copy gct folder to General Curatorial Team repo
+GCT_source = r"IPNInewRecords/2026/GCT_names"
+gct_destination = r"C:\Users\alane\OneDrive\Documents\wfo\wfo-general-curatorial-team\GCT_names"
+
+shutil.copytree(GCT_source, gct_destination, symlinks=False, ignore=None, copy_function=copy2, dirs_exist_ok=True)
 
 conn.close()
