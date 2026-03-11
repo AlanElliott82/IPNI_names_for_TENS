@@ -11,7 +11,7 @@ conn = sqlite3.connect('data/WFOsqlite.db')
 cursor = conn.cursor()
 
 # Month to run (change each run)
-month = "Jan26"   # Jul25, Aug25, Sep25, Oct25, Nov25, Dec25
+month = "July"   # Jul25, Aug25, Sep25, Oct25, Nov25, Dec25
 
 # ---------------------------------------------------------
 # EuroPlusMed Geography Matching
