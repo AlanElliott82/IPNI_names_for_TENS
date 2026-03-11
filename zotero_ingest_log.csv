@@ -1,0 +1,124 @@
+timestamp,doi,collection_name,collection_key,zotero_item_key,status,message
+2026-02-17T08:45:41Z,10.1285/i15910725v45p109,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.1285/i15910725v45p109
+2026-02-17T08:45:42Z,10.1285/i15910725v46p19,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.1285/i15910725v46p19
+2026-02-17T08:45:42Z,10.1285/i15910725v46p91,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.1285/i15910725v46p91
+2026-02-17T08:45:43Z,10.3989/ajbm.596,Annonaceae,,,collection_error,Could not get/create subcollection for 'Annonaceae'
+2026-02-17T08:45:45Z,10.3989/ajbm.609,2025 No Taxonomic Expert Network,XDFMVZJB,MXASMV2V,update_failed,OK
+2026-02-17T08:45:46Z,10.5735/085.061.0130,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:45:47Z,10.5735/085.061.0132,2025 No Taxonomic Expert Network,XDFMVZJB,2Q3C9IRP,update_failed,OK
+2026-02-17T08:45:48Z,10.5735/085.061.0135,Gesneriaceae,,,collection_error,Could not get/create subcollection for 'Gesneriaceae'
+2026-02-17T08:45:49Z,10.5735/085.061.0136,Zingiberaceae,,,collection_error,Could not get/create subcollection for 'Zingiberaceae'
+2026-02-17T08:45:50Z,10.5735/085.061.0138,2025 No Taxonomic Expert Network,XDFMVZJB,KMU873XU,update_failed,OK
+2026-02-17T08:45:52Z,10.5735/085.061.0140,2025 No Taxonomic Expert Network,XDFMVZJB,5CP4J6PH,update_failed,OK
+2026-02-17T08:45:53Z,10.3767/blumea.2024.69.02.01,2025 No Taxonomic Expert Network,XDFMVZJB,HNNSZEKT,update_failed,OK
+2026-02-17T08:45:54Z,10.3767/blumea.2024.69.02.02,Zingiberaceae,,,collection_error,Could not get/create subcollection for 'Zingiberaceae'
+2026-02-17T08:45:55Z,10.3767/blumea.2024.69.02.03,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:45:57Z,10.3767/blumea.2024.69.02.07,2025 No Taxonomic Expert Network,XDFMVZJB,6J9AUG9U,update_failed,OK
+2026-02-17T08:45:58Z,10.3897/phytokeys.252.135155,2025 No Taxonomic Expert Network,XDFMVZJB,BQM66TGI,update_failed,OK
+2026-02-17T08:45:58Z,10.3264/FG.2022.1228,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.3264/FG.2022.1228
+2026-02-17T08:46:00Z,10.17129/botsci.3513,2025 No Taxonomic Expert Network,XDFMVZJB,KHBH4884,update_failed,OK
+2026-02-17T08:46:01Z,10.17129/botsci.3541,Solanaceae,,,collection_error,Could not get/create subcollection for 'Solanaceae'
+2026-02-17T08:46:02Z,10.11646/phytotaxa.683.3.9,2025 No Taxonomic Expert Network,XDFMVZJB,H6TGDP2C,update_failed,OK
+2026-02-17T08:46:03Z,10.11646/phytotaxa.683.3.10,Zingiberaceae,,,collection_error,Could not get/create subcollection for 'Zingiberaceae'
+2026-02-17T08:46:05Z,10.11646/phytotaxa.683.3.11,Gesneriaceae,,,collection_error,Could not get/create subcollection for 'Gesneriaceae'
+2026-02-17T08:46:06Z,10.11648/j.ajaf.20241204.13,Poaceae,,,collection_error,Could not get/create subcollection for 'Poaceae'
+2026-02-17T08:46:07Z,10.1002/tax.13267,Apocynaceae,,,collection_error,Could not get/create subcollection for 'Apocynaceae'
+2026-02-17T08:46:08Z,10.1007/s12228-024-09813-y,PPG,,,collection_error,Could not get/create subcollection for 'PPG'
+2026-02-17T08:46:10Z,10.1007/s12228-024-09814-x,2025 No Taxonomic Expert Network,XDFMVZJB,KDN25JD6,update_failed,OK
+2026-02-17T08:46:11Z,10.1007/s12228-024-09816-9,2025 No Taxonomic Expert Network,XDFMVZJB,78UDAZUT,update_failed,OK
+2026-02-17T08:46:12Z,10.1007/s12228-024-09806-x,2025 No Taxonomic Expert Network,XDFMVZJB,SAZ4TMP6,update_failed,OK
+2026-02-17T08:46:13Z,10.1007/s12228-024-09807-w,2025 No Taxonomic Expert Network,XDFMVZJB,7DAPM7T2,update_failed,OK
+2026-02-17T08:46:15Z,10.1007/s12228-024-09810-1,2025 No Taxonomic Expert Network,XDFMVZJB,KGPTEVTT,update_failed,OK
+2026-02-17T08:46:16Z,10.1007/s12228-024-09785-z,2025 No Taxonomic Expert Network,XDFMVZJB,RNXG29BP,update_failed,OK
+2026-02-17T08:46:17Z,10.1007/s12228-024-09803-0,2025 No Taxonomic Expert Network,XDFMVZJB,BUU2P5MK,update_failed,OK
+2026-02-17T08:46:19Z,10.1600/036364424X17319705780145,2025 No Taxonomic Expert Network,XDFMVZJB,6EMGT2CJ,update_failed,OK
+2026-02-17T08:46:20Z,10.20531/tfb.2024.52.2.13,2025 No Taxonomic Expert Network,XDFMVZJB,62WVCNT7,update_failed,OK
+2026-02-17T08:46:21Z,10.20531/tfb.2024.52.2.14,Gesneriaceae,,,collection_error,Could not get/create subcollection for 'Gesneriaceae'
+2026-02-17T08:46:22Z,10.20531/tfb.2024.52.2.16,2025 No Taxonomic Expert Network,XDFMVZJB,EJN67RDR,update_failed,OK
+2026-02-17T08:46:23Z,10.1111/jipb.13499,Papaveraceae,,,collection_error,Could not get/create subcollection for 'Papaveraceae'
+2026-02-17T08:46:25Z,10.38201/btha.abc.v51.i2,2025 No Taxonomic Expert Network,XDFMVZJB,J58NI4FJ,update_failed,OK
+2026-02-17T08:46:26Z,10.5091/plecevo.140657,Arecaceae,,,collection_error,Could not get/create subcollection for 'Arecaceae'
+2026-02-17T08:46:27Z,10.3897/phytokeys.252.133501,2025 No Taxonomic Expert Network,XDFMVZJB,5D5HK8PT,update_failed,OK
+2026-02-17T08:46:28Z,10.11646/phytotaxa.684.1.8,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:46:29Z,10.11646/phytotaxa.684.1.9,2025 No Taxonomic Expert Network,XDFMVZJB,4V87UBFG,update_failed,OK
+2026-02-17T08:46:31Z,10.1080/0028825X.2025.2454582,2025 No Taxonomic Expert Network,XDFMVZJB,U4TRXGTB,update_failed,OK
+2026-02-17T08:46:32Z,10.3897/phytokeys.247.127527,2025 No Taxonomic Expert Network,XDFMVZJB,3DHVNAKB,update_failed,OK
+2026-02-17T08:46:33Z,10.3897/phytokeys.252.139783,2025 No Taxonomic Expert Network,XDFMVZJB,43PR7ISM,update_failed,OK
+2026-02-17T08:46:34Z,10.3897/phytokeys.252.144564,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:46:36Z,10.1002/tax.13308,2025 No Taxonomic Expert Network,XDFMVZJB,6TKBZMZC,update_failed,OK
+2026-02-17T08:46:37Z,10.3897/phytokeys.252.138190,2025 No Taxonomic Expert Network,XDFMVZJB,4IGEB85W,update_failed,OK
+2026-02-17T08:46:37Z,10.1285/i15910725v32p145,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.1285/i15910725v32p145
+2026-02-17T08:46:38Z,10.11646/phytotaxa.684.2.3,2025 No Taxonomic Expert Network,XDFMVZJB,D9NK7RX7,update_failed,OK
+2026-02-17T08:46:39Z,10.11646/phytotaxa.684.2.2,PPG,,,collection_error,Could not get/create subcollection for 'PPG'
+2026-02-17T08:46:41Z,10.11646/phytotaxa.684.2.7,2025 No Taxonomic Expert Network,XDFMVZJB,DRJQ73W5,update_failed,OK
+2026-02-17T08:46:42Z,10.11646/phytotaxa.684.2.9,2025 No Taxonomic Expert Network,XDFMVZJB,DJTSXI7P,update_failed,OK
+2026-02-17T08:46:43Z,10.11646/phytotaxa.684.2.11,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:46:45Z,10.11646/phytotaxa.684.2.12,2025 No Taxonomic Expert Network,XDFMVZJB,HDU38JHA,update_failed,OK
+2026-02-17T08:46:46Z,10.11646/phytotaxa.684.2.13,2025 No Taxonomic Expert Network,XDFMVZJB,RRHIMBA4,update_failed,OK
+2026-02-17T08:46:47Z,10.3897/phytokeys.252.136306,Gesneriaceae,,,collection_error,Could not get/create subcollection for 'Gesneriaceae'
+2026-02-17T08:46:48Z,10.11646/phytotaxa.686.1.1,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:46:49Z,10.3897/phytokeys.252.140026,2025 No Taxonomic Expert Network,XDFMVZJB,KV3NN5WT,update_failed,OK
+2026-02-17T08:46:51Z,10.11646/phytotaxa.687.1.2,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:46:52Z,10.11646/phytotaxa.687.1.3,Annonaceae,,,collection_error,Could not get/create subcollection for 'Annonaceae'
+2026-02-17T08:46:53Z,10.11646/phytotaxa.687.1.4,2025 No Taxonomic Expert Network,XDFMVZJB,CCKM7EB2,update_failed,OK
+2026-02-17T08:46:54Z,10.3897/phytokeys.252.132953,2025 No Taxonomic Expert Network,XDFMVZJB,KTGBR6S8,update_failed,OK
+2026-02-17T08:46:55Z,10.11646/phytotaxa.687.1.7,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:46:56Z,10.3897/phytokeys.252.137624,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:46:57Z,10.1007/s12228-024-09823-w,PPG,,,collection_error,Could not get/create subcollection for 'PPG'
+2026-02-17T08:46:58Z,10.3897/phytokeys.252.141635,Loasaceae,,,collection_error,Could not get/create subcollection for 'Loasaceae'
+2026-02-17T08:47:00Z,10.11646/phytotaxa.687.2.4,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:01Z,10.11646/phytotaxa.687.2.6,2025 No Taxonomic Expert Network,XDFMVZJB,IF5UCCCD,update_failed,OK
+2026-02-17T08:47:02Z,10.11646/phytotaxa.687.2.7,2025 No Taxonomic Expert Network,XDFMVZJB,852UQJII,update_failed,OK
+2026-02-17T08:47:04Z,10.11646/phytotaxa.687.2.8,2025 No Taxonomic Expert Network,XDFMVZJB,SX3VX2AN,update_failed,OK
+2026-02-17T08:47:05Z,10.1080/14772000.2024.2413944,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:06Z,10.3897/phytokeys.252.141719,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:07Z,10.1080/00378941.1966.10835562,Acanthaceae,,,collection_error,Could not get/create subcollection for 'Acanthaceae'
+2026-02-17T08:47:08Z,10.3897/phytokeys.252.129621,Sapindaceae,,,collection_error,Could not get/create subcollection for 'Sapindaceae'
+2026-02-17T08:47:09Z,10.3897/phytokeys.252.141300,Gesneriaceae,,,collection_error,Could not get/create subcollection for 'Gesneriaceae'
+2026-02-17T08:47:10Z,10.3897/phytokeys.252.128011,2025 No Taxonomic Expert Network,XDFMVZJB,TF83UQ5U,update_failed,OK
+2026-02-17T08:47:12Z,10.14258/turczaninowia.18.3.4,2025 No Taxonomic Expert Network,XDFMVZJB,EDQ4VZ9E,update_failed,OK
+2026-02-17T08:47:13Z,10.1080/0028825X.2024.2418004,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:14Z,10.25223/brad.n42.2024.a3,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:15Z,10.25223/brad.n42.2024.a5,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:16Z,10.11646/phytotaxa.689.1.4,Zingiberaceae,,,collection_error,Could not get/create subcollection for 'Zingiberaceae'
+2026-02-17T08:47:17Z,10.11646/phytotaxa.689.1.5,2025 No Taxonomic Expert Network,XDFMVZJB,J9BUDB4J,update_failed,OK
+2026-02-17T08:47:18Z,10.25223/brad.n42.2024.a11,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:19Z,10.11646/phytotaxa.689.1.7,2025 No Taxonomic Expert Network,XDFMVZJB,9KBJK3F6,update_failed,OK
+2026-02-17T08:47:21Z,10.11646/phytotaxa.689.1.9,2025 No Taxonomic Expert Network,XDFMVZJB,NCU9NVSH,update_failed,OK
+2026-02-17T08:47:22Z,10.11646/phytotaxa.689.1.11,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:23Z,10.11646/phytotaxa.689.1.12,2025 No Taxonomic Expert Network,XDFMVZJB,MM7QVUKS,update_failed,OK
+2026-02-17T08:47:24Z,10.1186/s40529-025-00454-2,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:25Z,10.51033/jjapbot.ID0210,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.51033/jjapbot.ID0210
+2026-02-17T08:47:26Z,10.51033/jjapbot.ID0265,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.51033/jjapbot.ID0265
+2026-02-17T08:47:26Z,10.7751/telopea20306,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.7751/telopea20306
+2026-02-17T08:47:26Z,10.7751/telopea20153,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.7751/telopea20153
+2026-02-17T08:47:27Z,10.7751/telopea20323,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.7751/telopea20323
+2026-02-17T08:47:28Z,10.7751/telopea20171,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:29Z,10.1002/tax.13280,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:30Z,10.7751/telopea20197,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.7751/telopea20197
+2026-02-17T08:47:31Z,10.1002/tax.13288,Ericaceae,,,collection_error,Could not get/create subcollection for 'Ericaceae'
+2026-02-17T08:47:33Z,10.11646/phytotaxa.689.2.5,2025 No Taxonomic Expert Network,XDFMVZJB,98FZG7HZ,update_failed,OK
+2026-02-17T08:47:34Z,10.3897/phytokeys.253.138418,2025 No Taxonomic Expert Network,XDFMVZJB,MMDRT6DN,update_failed,OK
+2026-02-17T08:47:35Z,10.3897/phytokeys.253.144408,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:36Z,10.5281/zenodo.14865023,PPG,,,collection_error,Could not get/create subcollection for 'PPG'
+2026-02-17T08:47:37Z,10.5281/zenodo.14865050,PPG,,,collection_error,Could not get/create subcollection for 'PPG'
+2026-02-17T08:47:38Z,10.5281/zenodo.14915904,2025 No Taxonomic Expert Network,XDFMVZJB,,crossref_error,Crossref metadata not found for DOI 10.5281/zenodo.14915904
+2026-02-17T08:47:39Z,10.1093/botlinnean/boae083,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:47:40Z,10.11646/phytotaxa.689.2.10,2025 No Taxonomic Expert Network,XDFMVZJB,QHASM4FG,update_failed,OK
+2026-02-17T08:47:41Z,10.11646/phytotaxa.689.2.1,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:42Z,10.11646/phytotaxa.689.2.2,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:44Z,10.11646/phytotaxa.689.2.6,2025 No Taxonomic Expert Network,XDFMVZJB,X3QHJP9N,update_failed,OK
+2026-02-17T08:47:45Z,10.11646/phytotaxa.689.2.9,2025 No Taxonomic Expert Network,XDFMVZJB,FARFUD7Q,update_failed,OK
+2026-02-17T08:47:46Z,10.11646/phytotaxa.689.2.11,Asteraceae,,,collection_error,Could not get/create subcollection for 'Asteraceae'
+2026-02-17T08:47:47Z,10.11646/phytotaxa.689.2.12,Caryophyllales,,,collection_error,Could not get/create subcollection for 'Caryophyllales'
+2026-02-17T08:47:49Z,10.11646/phytotaxa.689.2.13,Brassicaceae,,,collection_error,Could not get/create subcollection for 'Brassicaceae'
+2026-02-17T08:47:50Z,10.25223/brad.n42.2024.a17,2025 No Taxonomic Expert Network,XDFMVZJB,DBQU6KBV,update_failed,OK
+2026-02-17T08:47:51Z,10.25223/brad.n42.2024.a19,2025 No Taxonomic Expert Network,XDFMVZJB,QZ8DFPK6,update_failed,OK
+2026-02-17T08:47:52Z,10.3897/phytokeys.253.141697,2025 No Taxonomic Expert Network,XDFMVZJB,S8WRZVRA,update_failed,OK
+2026-02-17T08:47:54Z,10.24310/abm.v50.2025.21009,Poaceae,,,collection_error,Could not get/create subcollection for 'Poaceae'
+2026-02-17T08:47:55Z,10.3897/phytokeys.253.145350,2025 No Taxonomic Expert Network,XDFMVZJB,D879GWRF,update_failed,OK
+2026-02-17T08:47:56Z,10.11646/phytotaxa.690.1.1,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:47:57Z,10.11646/phytotaxa.690.1.3,2025 No Taxonomic Expert Network,XDFMVZJB,QR22D85N,update_failed,OK
+2026-02-17T08:47:58Z,10.11646/phytotaxa.690.1.8,Legumes,,,collection_error,Could not get/create subcollection for 'Legumes'
+2026-02-17T08:48:00Z,10.11646/phytotaxa.690.1.9,2025 No Taxonomic Expert Network,XDFMVZJB,RBSTH4H4,update_failed,OK
+2026-02-17T08:48:01Z,10.11646/phytotaxa.690.1.10,2025 No Taxonomic Expert Network,XDFMVZJB,3SJAEJHN,update_failed,OK
