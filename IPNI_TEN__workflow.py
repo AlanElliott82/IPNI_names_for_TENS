@@ -19,7 +19,7 @@ table_names = cursor.fetchall()
 exclude_substrings = ['IPNI', 'EuroPlusMed']
 table_names_array = [table[0] for table in table_names if not any(sub in table[0] for sub in exclude_substrings)]
 
-month = "april26"  # Change each month
+month = "May26"  # Change each month
 
 # ---------------------------------------------------------
 # NEW SECTION: EuroPlusMed Geography Matching
