@@ -19,7 +19,7 @@ table_names = cursor.fetchall()
 exclude_substrings = ['IPNI', 'EuroPlusMed']
 table_names_array = [table[0] for table in table_names if not any(sub in table[0] for sub in exclude_substrings)]
 
-month = "May26"  # Change each month
+month = "Jun26"  # Change each month
 
 # ---------------------------------------------------------
 # NEW SECTION: EuroPlusMed Geography Matching
@@ -75,6 +75,51 @@ if geo_count > 0:
 else:
     with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
         log_file.write(f'EuroPlusMed match executed at: {str(time())} - Count: 0\n')
+
+# ---------------------------------------------------------
+# NEW SECTION: Flora of Nepal Geography Matching
+# ---------------------------------------------------------
+
+geo_query = f"""
+SELECT DISTINCT 
+    i.rhakhis_wfo AS WFOID,
+    i.id AS IPNID,
+    i.taxon_scientific_name_s_lower AS scientificName,
+    i.authors_t AS authorship,
+    i.reference_t AS namePublishedin,
+    i.name_status_s_lower AS nomenclaturalStatus,
+    i.basionym_s_lower AS originalName,
+    i.basionym_author_s_lower AS originalNameAuthor,
+    i.distribution_s_lower AS distribution
+FROM IPNI{month} AS i
+JOIN FloraOfNepal AS g
+  ON i.distribution_s_lower LIKE '%' || LOWER(g.Country) || '%';
+"""
+
+cursor.execute(geo_query)
+geo_results = cursor.fetchall()
+geo_count = len(geo_results)
+
+# Create directory
+geo_dir = f'IPNInewRecords/2026/FloraOfNepal'
+os.makedirs(geo_dir, exist_ok=True)
+
+geo_file = f'{geo_dir}/FloraOfNepal_{month}.csv'
+
+if geo_count > 0:
+    column_names = [description[0] for description in cursor.description]
+
+    with open(geo_file, 'w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(column_names)
+        writer.writerows(geo_results)
+
+    with open(f'IPNInewRecords/2026/Result_log_{month}.txt', 'a') as log_file:
+        log_file.write(f'FloraOfNepal match executed at: {str(time())} - Count: {geo_count}\n')
+
+else:
+    with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
+        log_file.write(f'FloraOfNepal match executed at: {str(time())} - Count: 0\n')
 
 # ---------------------------------------------------------
 # CMEP Geography Matching
@@ -133,6 +178,8 @@ else:
     with open(f'IPNInewRecords/2026/noResult_log_{month}.txt', 'a') as log_file:
         log_file.write(f'CMEP match executed at: {str(time())} - Count: 0\n')
 
+
+
 # ---------------------------------------------------------
 # EXISTING TENFam PROCESSING
 # ---------------------------------------------------------
@@ -182,7 +229,7 @@ if 'TENFams' in table_names_array:
 # ---------------------------------------------------------
 
 for table_name in table_names_array:
-    if table_name != 'TENFams':
+    if table_name not in ['TENFams', 'CMEP_TDWG', 'CMEP_Geography', 'FloraOfNepal', 'CMEP_TDWG']:
         print(f"Processing table: {table_name}")
 
         if table_name == "Cichorieae":
@@ -264,7 +311,7 @@ if 'TENFams' in table_names_array:
 
 # Insert other TEN table IDs (respecting special cases)
 for table_name in table_names_array:
-    if table_name != 'TENFams':
+    if table_name not in ['TENFams', 'CMEP_TDWG', 'CMEP_Geography', 'FloraOfNepal', 'CMEP_TDWG']:
 
         if table_name == "Cichorieae":
             cursor.execute(
